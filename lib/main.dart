@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoApp(
       title: 'Itetwpp',
-      home: CupertinoPageScaffold(child: Container(color:Colors.red)),
+      home: CupertinoPageScaffold(child: Container(color:Colors.blue)),
     );
   }
 }
