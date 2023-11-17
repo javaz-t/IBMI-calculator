@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CupertinoApp(
-      title: 'IBMI App',
-      home: CupertinoPageScaffold(child: Container(color: Color.fromARGB(255, 252, 185, 180),)),
+      title: 'Itetwpp',
+      home: CupertinoPageScaffold(child: Container(color:Colors.red)),
     );
   }
 }
